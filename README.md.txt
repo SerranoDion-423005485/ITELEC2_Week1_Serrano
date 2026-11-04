@@ -20,3 +20,4 @@
 ### Integer Division Prediction
 
 My prediction for 250 / 4 using int values was 62 because integer division removes the decimal portion of the result. The actual result was 62, with a remainder of 2. When I converted the total bill into a double, the exact share became PHP 62.50.
+Week 1 repository successfully published to GitHub.
